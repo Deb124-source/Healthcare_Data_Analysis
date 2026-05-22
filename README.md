@@ -128,10 +128,8 @@ jupyter notebook
 
 **Debdut Nandy**
 
-- GitHub: https://github.com/Deb124-source  
-- Portfolio: (Add your portfolio link here)  
-- LinkedIn: (Add your LinkedIn here)
-
+- GitHub: https://github.com/Deb124-source
+  
 ---
 
 ## 📜 License
