@@ -85,7 +85,7 @@ Insight Generation
 
 
 <p align="center">
-  <img src="images/download png" alt="Sample Visualization" width="800">
+  <img src="images/download (12).png" alt="Sample Visualization" width="800">
 </p>
 
 
